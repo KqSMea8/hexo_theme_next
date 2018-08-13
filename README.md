@@ -1,0 +1,1 @@
+# hexo_theme_next
